@@ -1,4 +1,5 @@
 /*ESTUDO ACERCA DE ESTRUTURAS DADOS HETEROGÊNEAS*/
+/*EMPREGANDO PONTEIROS*/
 #include <stdio.h>
 
 static int a = 0; // variável global, alocação estática

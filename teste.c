@@ -4,7 +4,7 @@
 
 static int a = 0; // variável global, alocação estática
 
-void incrementa(void)
+void incrementa(void) // função
 {
     int b = 0;        // variável local, alocação automática
     static int c = 0; // variável local, alocação estática
